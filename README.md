@@ -3,6 +3,4 @@
 
 ## 联系我们 Contact us:
 
-Mail:tca_doc@163.com
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCA-Arknights)](https://github.com/anuraghazra/github-readme-stats)
+Mail: tca_doc@163.com
